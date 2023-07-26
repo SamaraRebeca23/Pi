@@ -14,11 +14,10 @@ function App() {
   return (
     /* O react substitui className por class porque class é palavra reservada pro JS */
     <>
-    <img src= 'logo.png' alt= 'logotipo'></img>
     {/* Cabecalho tem um propriedade chamada titulo*/}
-    <Cabecalho  logo ="logo192.png" titulo = "Fav.io" subtitulo="The bessssttttt!!"/>
+    <Cabecalho  logo ="captura de tela (1).png" titulo = "Dearfav" subtitulo="The best!"/>
     <Conteudo/> 
-    <Rodape/>
+    <Rodape logo ="captura de tela (1).png"/>
     </>
   );
 }

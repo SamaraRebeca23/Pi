@@ -1,15 +1,19 @@
 .cabecalho{
     display: flex;
     justify-content: space-around; 
+    background-color: blueviolet;
 }
 .titulo{
     font-size: 3rem;
     color: blue;
-    background-color: aquamarine;
+   
 }
 .subtitulo{
     font-size: 2rem;
-    color: aquamarine;
-    background-color: blue;
+    color: blue;
 
+
+}
+.logo{
+    width: 10%;
 }
