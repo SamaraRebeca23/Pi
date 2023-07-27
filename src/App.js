@@ -17,7 +17,7 @@ function App() {
     {/* Cabecalho tem um propriedade chamada titulo*/}
     <Cabecalho  logo ="captura de tela (1).png" titulo = "Dearfav" subtitulo="The best!"/>
     <Conteudo/> 
-    <Rodape logo ="captura de tela (1).png"/>
+    <Rodape logo ="facebook_4494464.png" />
     </>
   );
 }

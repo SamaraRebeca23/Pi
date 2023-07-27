@@ -5,7 +5,7 @@ export default function Rodape(props) {
   return (
 
     <div className = {styles.Rodape}>
- 
+      
      <img className = {styles.logo} src={props.logo}/>
       <p className = {styles.Rodape}>{props.rodape}</p>
       
